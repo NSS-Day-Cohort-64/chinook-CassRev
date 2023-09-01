@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "ms-mssql.sql-database-projects-vscode",
+        "jakebathman.mysql-syntax",
+        "mtxr.sqltools-driver-sqlite",
+        "cweijan.vscode-es-client2",
+        "rohit-chouhan.sqlite-snippet",
+        "cweijan.vscode-postgresql-client2",
+        "cweijan.vscode-mysql-client2",
+        "cweijan.vscode-database-client2",
+        "littlefoxteam.vscode-python-test-adapter",
+        "hbenl.vscode-test-explorer-liveshare",
+        "piotrpalarz.vscode-gitignore-generator"
+    ]
+}
